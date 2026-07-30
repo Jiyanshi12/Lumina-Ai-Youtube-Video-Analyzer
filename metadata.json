@@ -1,0 +1,6 @@
+{
+  "name": "AI YouTube Learning Assistant",
+  "description": "Transform YouTube videos into notes, flashcards, quizzes, coding snippets, smart timelines, interactive knowledge graphs, and AI tutor study sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
